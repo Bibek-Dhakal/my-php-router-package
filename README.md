@@ -7,7 +7,7 @@ A flexible and powerful PHP router for building web applications.
 You can install the package using Composer:
 
 ```console
-composer require bibek/my-php-router
+composer require bibek8366/my-php-router
 ```
 
 ## Usage
