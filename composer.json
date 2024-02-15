@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bibek8366\\my_php_router\\": "src/"
+            "Bibek8366\\my_php_router\\": "src/"
         }
     },
     "minimum-stability": "stable"
