@@ -1,0 +1,25 @@
+{
+    "name": "bibek/my-php-router",
+    "type": "library",
+    "description": "A flexible and powerful PHP router for building web applications.",
+    "keywords": ["php", "router", "routing", "web", "framework"],
+    "homepage": "https://github.com/Bibek-Dhakal/my-php-router",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bibek Dhakal",
+            "email": "dhakalaswin8366@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Bibek\\MyPhpRouter": "src"
+        }
+    }
+}
+
+
