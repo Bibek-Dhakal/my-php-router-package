@@ -16,10 +16,10 @@
         "php": ">=8.1"
     },
     "autoload": {
-        "psr-0": {
-            "Bibek8366\\MyPhpRouter": "src"
+        "psr-4": {
+            "Bibek8366\\MyPhpRouter\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
-
 
