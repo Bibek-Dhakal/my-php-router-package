@@ -19,7 +19,7 @@ composer require bibek/my-php-router
 require_once 'vendor/autoload.php';
 
 // Import the Router class from the package
-use Bibek\MyPhpRouter\Router;
+use Bibek8366\MyPhpRouter\Router;
 
 // 1st middleware
 function middleware($next) {
