@@ -1,5 +1,5 @@
 {
-    "name": "bibek8366/my_php_router",
+    "name": "bibek8366/my-php-router",
     "type": "library",
     "description": "A flexible and powerful PHP router for building web applications.",
     "keywords": ["php", "router", "routing", "web", "framework"],
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Bibek8366\\my_php_router\\": "src/"
+            "Bibek8366\\MyPhpRouter\\": "src/"
         }
     },
     "minimum-stability": "stable"

@@ -7,7 +7,7 @@ A flexible and powerful PHP router for building web applications.
 You can install the package using Composer:
 
 ```console
-composer require bibek8366/my_php_router:dev-main
+composer require bibek8366/my-php-router:dev-main
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ composer require bibek8366/my_php_router:dev-main
 require_once 'vendor/autoload.php';
 
 // Import the Router class from the package
-use bibek8366\my_php_router\Router;
+use Bibek8366\MyPhpRouter\Router;
 
 // 1st middleware
 function middleware($next) {
