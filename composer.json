@@ -20,6 +20,6 @@
             "Bibek8366\\MyPhpRouter\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
 
