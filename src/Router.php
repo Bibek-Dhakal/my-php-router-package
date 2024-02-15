@@ -1,6 +1,10 @@
 <?php
 // router.php
 
+namespace Bibek8366\MyPhpRouter;
+use Exception;
+use stdClass;
+
 // Router class
 class Router {
     public static function route($route, $errorHandler8366 = null) {
