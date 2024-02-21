@@ -3,7 +3,7 @@
     "type": "library",
     "description": "A flexible and powerful PHP router for building web applications.",
     "keywords": ["php", "router", "routing", "web", "framework"],
-    "homepage": "https://github.com/Bibek-Dhakal/my-php-router",
+    "homepage": "https://github.com/Bibek-Dhakal/my-php-router-package",
     "license": "MIT",
     "authors": [
         {
