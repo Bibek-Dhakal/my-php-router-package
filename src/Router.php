@@ -1,5 +1,5 @@
 <?php
-// router.php
+// Router.php
 
 namespace Bibek8366\MyPhpRouter;
 use Exception;
